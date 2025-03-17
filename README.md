@@ -24,7 +24,7 @@
 ### 1️⃣ Notebooks  
 | Notebook  | Purpose  | Link  |
 |-----------|---------|-------|
-| 🏞️ **Image Generation**  | Run inference on a pre-trained Stable Diffusion model. | [View](#) |
+| 🏞️ **Image Generation**  | Run inference on a pre-trained Stable Diffusion model. | [View](#https://github.com/wrvarun-96/GenCommerceAI-Diffusion_model/blob/main/Stable_Diffusion_Inference.ipynb) |
 | 🏋️ **Model Training**  | Fine-tune the model on your product dataset. | [View](#) |
 
 ### 2️⃣ Dataset  
