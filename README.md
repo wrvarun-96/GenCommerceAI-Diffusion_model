@@ -25,13 +25,13 @@
 | Notebook  | Purpose  | Link  |
 |-----------|---------|-------|
 | 🏞️ **Image Generation**  | Run inference on a pre-trained Stable Diffusion model. | [Check it out](https://github.com/wrvarun-96/GenCommerceAI-Diffusion_model/blob/main/Stable_Diffusion_Inference.ipynb) |
-| 🏋️ **Model Training**  | Fine-tune the model on your product dataset. | [View](#) |
+| 🏋️ **Model Training**  | Fine-tune the model on your product dataset. | [Check it out](https://github.com/wrvarun-96/GenCommerceAI-Diffusion_model/blob/main/Stable_Diffusion_Training_and_Inference.ipynb) |
 
 ### 2️⃣ Dataset  
 Our dataset includes **high-quality product images** and **text descriptions** curated for consistency.  
 
 📌 **Current Example: Martin Valen Hoodies**  
-🔗 **Check out our Hugging Face dataset**: [Dataset Link](#).  
+🔗 **Check out our Hugging Face dataset**: [Dataset](https://huggingface.co/datasets/akadhim-ai/martin_valen_dataset).  
 
 ---
 
