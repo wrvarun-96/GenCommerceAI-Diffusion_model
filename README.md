@@ -45,7 +45,7 @@ Using GenCommerceAI, we generated product images from simple text prompts:
 - 🟢 `"Camouflage hoodie by Martin Valen"`  
 
 #### Sample Results:  
-![Generated Images](#)  
+![Generated Images](img/228463036-88de373c-60ac-4bfe-8e01-a9b271843a59.png)  
 
 ---
 
